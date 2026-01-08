@@ -359,12 +359,6 @@ Note: A TensorFlow implementation of the same model is also included purely for 
 
  N-layer neural network has also been uploaded check my repos
 
-Improve initialization (Xavier / He)
-
-Add accuracy tracking
-
-Add regularization
-
 👤 Author
 
 Abraar
